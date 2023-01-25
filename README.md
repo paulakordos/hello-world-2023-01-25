@@ -1,2 +1,3 @@
 # hello-world-2023-01-25
-My repo on git Hub
+My first repo on git Hub
+I love :cofee, :pizza:, and : dancer 
